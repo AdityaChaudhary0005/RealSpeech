@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\bin\Debug\RealSpeech.exe.config
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\bin\Debug\RealSpeech.exe
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\bin\Debug\RealSpeech.pdb
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\obj\Debug\RealSpeech.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\obj\Debug\RealSpeech.Form1.resources
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\obj\Debug\RealSpeech.Properties.Resources.resources
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\obj\Debug\RealSpeech.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\obj\Debug\RealSpeech.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\obj\Debug\RealSpeech.exe
+C:\Users\dell\Desktop\Projects\RealSpeech\RealSpeech\obj\Debug\RealSpeech.pdb
